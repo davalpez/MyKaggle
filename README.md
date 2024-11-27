@@ -1,4 +1,4 @@
-* ML Algorithms and NN solutions for Kaggle*
+# ** ML Algorithms and NN solutions for Kaggle**
 Welcome to the my Kaggle ! This is a showcase for my experiments to comprehend better how the neural network architecture by creating models for Kaggle competitions.
 
 📂 What's in This Repository?
