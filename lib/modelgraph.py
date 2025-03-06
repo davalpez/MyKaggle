@@ -1,3 +1,8 @@
+####### This file contains useful and recurrent functions that will be used to plot and display results from models used in my notebooks #######
+####### The functions are divided in three main modules: Scikit Learn, Plotting and OS #######
+####### The functions are used to display results from models, plot graphs and display information about directories #######
+
+
 import matplotlib.pyplot as plt
 import tensorflow as tf
 import numpy
