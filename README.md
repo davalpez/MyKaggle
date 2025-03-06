@@ -11,7 +11,9 @@ This repository contains:<br>
 * Insights & Learnings: Reflections on what worked, what didn’t, and how I improved my models over time.
 
 🏆 **Featured Projects** <br>
-Dataset for Medical Cost Personal Datasets.<br>
+Regression model for Medical Cost Personal Datasets.<br>
+Multi-classification model for Food-101 .<br>
+Multi-classification model for Medical Abstracts.<br>
 
 🚀 **How to Use This Repository** <br>
 Clone this repository:<br>
